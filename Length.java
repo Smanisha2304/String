@@ -5,9 +5,10 @@ class Solution {
          // System.out.println(parts[0]);
         String lastword = parts[parts.length-1];
         int count = lastword.length();
-        return count;   
+        return count;
     }
 
 }
+
 
 
